@@ -33,8 +33,8 @@ cargo build
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/ANIR1604/NeetScrapper.git
+   cd NeetScrapper
    ```
 
 2. **Build the Project**
